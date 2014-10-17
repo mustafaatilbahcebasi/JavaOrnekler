@@ -1,5 +1,4 @@
 public class KokBulma {
-
 	public static void main(String[] args) {
 	double a=3;
 	double b=2;
@@ -12,7 +11,5 @@ public class KokBulma {
 	
 	System.out.print("Kök 1 ="); System.out.println(x1);
 	System.out.print("Kök 2 ="); System.out.println(x2);
-
 	}
-
 }
